@@ -1,3 +1,9 @@
-# DoaApp
+# Doa App
+an islamic app on semester 1
 
-FIXED
+with data dummy
+
+## The result
+
+| **COMING SOON** |
+| :--: |
